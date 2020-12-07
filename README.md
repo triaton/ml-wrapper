@@ -1,5 +1,5 @@
 # Getting Started
-The api documentation can be found [here](##APIDoc).
+The api documentation can be found [here](#api-documentation).
 
 ## Requirements
 
@@ -62,7 +62,7 @@ curl --data-raw "{\"data\":\"aGVsbG8sIHdvcmxkIQ==\"}" --location --request POST 
 ## How to integrate the ML part
 You can find the `# TODO` commented part from `main.py` file. You can customize the code there. That's all.
 
-## APIDoc
+## API Documentation
 
 1. parse api
 ```
