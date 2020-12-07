@@ -10,9 +10,9 @@ The api documentation can be found [here](##APIDoc).
 * Windows
 ```
 # clone the repository
-git clone https://github.com/triaton/fastapi-email-sender.git
+git clone https://github.com/triaton/ml-wrapper.git
 
-cd fastapi-email-sender
+cd ml-wrapper
 
 # make virtual environemnt
 py -m venv env
@@ -33,9 +33,9 @@ uvicorn main:app --port 80 --host 0.0.0.0
 * Linux
 ```
 # clone the repository
-git clone https://github.com/triaton/fastapi-email-sender.git
+git clone https://github.com/triaton/ml-wrapper.git
 
-cd fastapi-email-sender
+cd ml-wrapper
 
 # make virtual environemnt
 virtuanenv env
